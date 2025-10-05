@@ -1,0 +1,41 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="26">
+            <item index="0" class="java.lang.String" itemvalue="fs_common_lib" />
+            <item index="1" class="java.lang.String" itemvalue="cassandra-synchronizer" />
+            <item index="2" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="3" class="java.lang.String" itemvalue="psycopg2-binary" />
+            <item index="4" class="java.lang.String" itemvalue="python-dotenv" />
+            <item index="5" class="java.lang.String" itemvalue="opensearch-py" />
+            <item index="6" class="java.lang.String" itemvalue="requests" />
+            <item index="7" class="java.lang.String" itemvalue="fastapi-depends-extension" />
+            <item index="8" class="java.lang.String" itemvalue="taskiq" />
+            <item index="9" class="java.lang.String" itemvalue="sentry-sdk" />
+            <item index="10" class="java.lang.String" itemvalue="uvicorn" />
+            <item index="11" class="java.lang.String" itemvalue="fastapi_utils" />
+            <item index="12" class="java.lang.String" itemvalue="devtools" />
+            <item index="13" class="java.lang.String" itemvalue="faststream" />
+            <item index="14" class="java.lang.String" itemvalue="taskiq-fastapi" />
+            <item index="15" class="java.lang.String" itemvalue="taskiq-redis" />
+            <item index="16" class="java.lang.String" itemvalue="pydantic" />
+            <item index="17" class="java.lang.String" itemvalue="cassandra-driver" />
+            <item index="18" class="java.lang.String" itemvalue="pytest" />
+            <item index="19" class="java.lang.String" itemvalue="asyncpg" />
+            <item index="20" class="java.lang.String" itemvalue="fs-connections" />
+            <item index="21" class="java.lang.String" itemvalue="python-multipart" />
+            <item index="22" class="java.lang.String" itemvalue="fastapi" />
+            <item index="23" class="java.lang.String" itemvalue="fastapi-lifespan-manager" />
+            <item index="24" class="java.lang.String" itemvalue="responses" />
+            <item index="25" class="java.lang.String" itemvalue="openpyxl" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="Stylelint" enabled="true" level="ERROR" enabled_by_default="true" />
+  </profile>
+</component>
